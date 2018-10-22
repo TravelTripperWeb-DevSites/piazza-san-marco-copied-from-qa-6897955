@@ -1,14 +1,30 @@
 {
   "title": "Big Monument-copy-copy",
-  "sub_title": "A must-see",
-  "category": "Sights",
-  "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>",
+  "category": [
+    "S",
+    "i",
+    "g",
+    "h",
+    "t",
+    "s"
+  ],
   "image": {
     "url": "/assets/stock_images/tower-bridge.jpg",
-    "alt": "Monument"
+    "alt": "Monument",
+    "caption": "",
+    "description": ""
   },
   "latitude": 40.7547385,
   "longitude": -73.97681210000002,
   "featured": true,
-  "order": 1
+  "order": 1,
+  "sub_title_localized": {
+    "en": "A must-see"
+  },
+  "description_localized": {
+    "en": "<p>The most visited destination in town, this monument represents local history and culture.</p>"
+  },
+  "name_localized": {
+    "en": "Named Attraction!"
+  }
 }
