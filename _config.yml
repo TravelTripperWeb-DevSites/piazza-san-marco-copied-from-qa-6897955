@@ -1,101 +1,75 @@
-
+---
 gems:
 - jekyll-sitemap
 keep_files:
 - assets
+- ttio_templates/bedrock/assets
+- ttio_templates/express-multi/assets
 rsync_copy:
 - _assets
+- _ttio_templates/bedrock/assets
+- _ttio_templates/express-multi/assets
 exclude:
-- sitemap.json
+- "*.sublime-project"
+- "*.sublime-workspace"
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- ".git"
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- Makefile
 - media.json
-- old_media.json
 - models.json
-
+- node_modules
+- old_media.json
+- package.json
+- package-lock.json
+- Rakefile
+- README
+- sitemap.json
+- tmp
+- vendor
+- _assets
+- _ttio_templates
 google_maps_api_key: AIzaSyBm2DXwUKvbnRTgoBHaJ3LKuNJi_atHfKc
-
 plugins_dir:
-  - _plugins-core
-  - _plugins
-
+- _plugins-core
+- _plugins
 i18n_dir:
-  - _ttio_templates/express-multi/locales
-  - _locales
-
+- _ttio_templates/express-multi/locales
+- _locales
 layouts_dir:
-  - _ttio_templates/bedrock/_layouts
-  - _ttio_templates/express-multi/layouts
-  - _layouts
-  
-data_dir: 
-  - _ttio_templates/bedrock/_data
-  - _ttio_templates/express-multi/data
-  - _data
-  
+- _ttio_templates/bedrock/_layouts
+- _ttio_templates/express-multi/layouts
+- _layouts
+data_dir:
+- _ttio_templates/bedrock/_data
+- _ttio_templates/express-multi/data
+- _data
 includes_dir:
-  - _includes
-  - _ttio_templates/express-multi/includes
-  - _ttio_templates/bedrock/_includes
-  
-
-
-
-
-
-
-# Site Settings
-# title: "Bedrock"
-# title_separator: "|"
-# name: "Hotel Property Name"
-url: # the base hostname & protocol for your site e.g. "https://www.traveltripper.io"
-# repository:  # GitHub username/repo-name e.g. "TravelTripperWeb/bedrock"
-
-# Language Settings
-default_lang: 'en'
-languages: ['en', 'es']
-
+- _includes
+- _ttio_templates/express-multi/includes
+- _ttio_templates/bedrock/_includes
+url: 
+default_lang: en
+languages:
+- en
+- es
 include:
-  - _pages
-
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .git
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - Makefile
-  - media.json
-  - models.json
-  - node_modules
-  - old_media.json
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - sitemap.json
-  - tmp
-  - vendor  
-  - '_assets' # This is handled via rsync
-  - '_ttio_templates'
-
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
+- _pages
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 excerpt_separator: "\n\n"
 incremental: false
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -105,24 +79,16 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# Sass/SCSS
 sass:
   load_paths:
-    - _sass
+  - _sass
   style: compressed
-
-# Outputting
 permalink: pretty
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-page_gen: #
-  - data: 'offers'
-    template: 'offer-single'
-    dir: 'offers'
-  - data: 'rooms'
-    template: 'room-single'
-    dir: 'rooms'
-
-keep_files: ['assets', 'ttio_templates/bedrock/assets', 'ttio_templates/express-multi/assets']
-rsync_copy: ['_assets', '_ttio_templates/bedrock/assets', '_ttio_templates/express-multi/assets']
+timezone: 
+page_gen:
+- data: offers
+  template: offer-single
+  dir: offers
+- data: rooms
+  template: room-single
+  dir: rooms
