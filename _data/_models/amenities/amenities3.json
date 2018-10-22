@@ -1,5 +1,22 @@
 {
-  "name": "Bar/lounge",
   "order": 3,
-  "hidden": false
+  "hidden": false,
+  "name_localized": {
+    "en": "Bar & Lounge"
+  },
+  "images": [
+    {
+      "name": "Image 1",
+      "tags": "gallery",
+      "order": 1,
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
+      "description": "",
+      "caption": "",
+      "alt": "Image 1",
+      "date_added": "2018-03-29-110925",
+      "git_file_name": "_assets/image_data/image-1.json",
+      "path": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
+      "file_size": null
+    }
+  ]
 }
