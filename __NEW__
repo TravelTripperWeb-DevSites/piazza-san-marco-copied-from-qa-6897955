@@ -1,0 +1,12 @@
+---
+published_localized:
+  en: true
+  es: true
+label: Test
+title_localized:
+  en: Test
+permalink_localized:
+  en: test
+layout: gallery
+
+---
