@@ -1,1 +1,10 @@
---- []
+---
+- http://home-page: home/
+- address: contactus/
+- blog: blog/
+- SUBSCRIBE: home/
+- Press-Releases/: press/
+- Dining: dining/
+- location: location/
+- events: events/
+- etes: ''
