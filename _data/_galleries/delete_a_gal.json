@@ -2,19 +2,6 @@
   "name": "Delete a galwerwe",
   "photos": [
     {
-      "name": "Image 1",
-      "tags": "gallery",
-      "order": 1,
-      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
-      "description": "",
-      "caption": "Image 1",
-      "alt": "Image 1",
-      "date_added": "2018-03-29-110925",
-      "git_file_name": "_assets/image_data/image-1.json",
-      "path": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
-      "file_size": null
-    },
-    {
       "name": "london bridge",
       "file_name": "susan-yin-62145.jpg",
       "file_type": "image/jpeg",
@@ -33,6 +20,19 @@
       "git_file_name": "_assets/image_data/tower-bridge.json",
       "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_2_12/media/2017-07-11-152446/susan-yin-62145.jpg",
       "alt": "View of london bridge"
+    },
+    {
+      "name": "Image 1",
+      "tags": "gallery",
+      "order": 1,
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
+      "description": "",
+      "caption": "Image 1",
+      "alt": "Image 1",
+      "date_added": "2018-03-29-110925",
+      "git_file_name": "_assets/image_data/image-1.json",
+      "path": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
+      "file_size": null
     }
   ],
   "description": "",
