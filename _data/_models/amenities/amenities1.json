@@ -8,12 +8,12 @@
     {
       "name": "london-bridge",
       "content_type": null,
-      "date_added": "2018-10-25-172737",
-      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1958,w_2526,x_0,y_0/c_fill,g_faces,h_140,w_140/v1540502858/ccfdxkqag32soldc7box.jpg",
-      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1958,w_2526,x_0,y_0/c_fit,h_300,w_300/v1540502858/ccfdxkqag32soldc7box.jpg",
-      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1958,w_2526,x_0,y_0/c_fit,h_768,w_768/v1540502858/ccfdxkqag32soldc7box.jpg",
-      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1958,w_2526,x_0,y_0/c_fit,h_992,w_992/v1540502858/ccfdxkqag32soldc7box.jpg",
-      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1958,w_2526,x_0,y_0/c_fit,h_1200,w_1200/v1540502858/ccfdxkqag32soldc7box.jpg",
+      "date_added": "2018-10-25-172812",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1961,w_2525,x_1475,y_711/c_fill,g_faces,h_140,w_140/v1540502892/ul3egojr2b5d7zvlhxho.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1961,w_2525,x_1475,y_711/c_fit,h_300,w_300/v1540502892/ul3egojr2b5d7zvlhxho.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1961,w_2525,x_1475,y_711/c_fit,h_768,w_768/v1540502892/ul3egojr2b5d7zvlhxho.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1961,w_2525,x_1475,y_711/c_fit,h_992,w_992/v1540502892/ul3egojr2b5d7zvlhxho.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_1961,w_2525,x_1475,y_711/c_fit,h_1200,w_1200/v1540502892/ul3egojr2b5d7zvlhxho.jpg",
       "width": 4000,
       "height": 2672,
       "format": "jpg",
@@ -22,11 +22,11 @@
       "size": 10258850,
       "crop": {
         "origin": {
-          "x": 0,
-          "y": 0
+          "x": 1475,
+          "y": 712
         },
-        "width": 2526,
-        "height": 1958
+        "width": 2524,
+        "height": 1964
       },
       "alt": "View of london bridge",
       "caption": "",
