@@ -65,6 +65,19 @@
         "width": 3999,
         "height": 2675
       }
+    },
+    {
+      "name": "Image 1",
+      "tags": "gallery",
+      "order": 1,
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
+      "description": "",
+      "caption": "Image 1",
+      "alt": "Image 1",
+      "date_added": "2018-03-29-110925",
+      "git_file_name": "_assets/image_data/image-1.json",
+      "path": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68480_1_master.jpg",
+      "file_size": null
     }
   ],
   "description": "",
