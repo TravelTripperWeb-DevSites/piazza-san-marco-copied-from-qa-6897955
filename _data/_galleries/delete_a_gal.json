@@ -19,7 +19,8 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_2_12/media/2017-07-11-152446/thumb_susan-yin-62145.jpg",
       "git_file_name": "_assets/image_data/tower-bridge.json",
       "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_2_12/media/2017-07-11-152446/susan-yin-62145.jpg",
-      "alt": "View of london bridge"
+      "alt": "View of london bridge",
+      "caption": "This image has a reallly long caption now, so lets see what happens"
     },
     {
       "name": "Image 1",
