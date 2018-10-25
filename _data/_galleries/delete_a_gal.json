@@ -27,7 +27,8 @@
       "git_file_name": "_assets/image_data/Wall1-Exterior.json",
       "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1540479633/f57yyz64nxrisuupy7jc.jpg",
       "file_size": null,
-      "alt": "Wall1-Exterior"
+      "alt": "Wall1-Exterior",
+      "caption": "Here's a caption for this one."
     },
     {
       "name": "london-bridge",
@@ -105,7 +106,8 @@
       "git_file_name": "_assets/image_data/Wall1-Exterior.json",
       "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1540479633/f57yyz64nxrisuupy7jc.jpg",
       "file_size": null,
-      "alt": "Wall1-Exterior"
+      "alt": "Wall1-Exterior",
+      "caption": "Here's a caption for this one."
     }
   ],
   "description": "",
