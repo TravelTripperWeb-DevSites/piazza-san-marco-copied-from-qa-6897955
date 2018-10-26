@@ -2,30 +2,6 @@
   "name": "My Gal",
   "photos": [
     {
-      "name": "london-bridge",
-      "content_type": null,
-      "date_added": "2018-10-25-182638",
-      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fill,g_faces,h_140,w_140/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
-      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_300,w_300/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
-      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_768,w_768/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
-      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_992,w_992/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
-      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_1200,w_1200/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
-      "width": 4000,
-      "height": 2672,
-      "format": "jpg",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_2_12/media/2017-07-11-152446/susan-yin-62145.jpg",
-      "resource_type": "image",
-      "size": 10258850,
-      "crop": {
-        "origin": {
-          "x": 0,
-          "y": 0
-        },
-        "width": 3997,
-        "height": 2681
-      }
-    },
-    {
       "name": "Wall1-Exterior",
       "content_type": "image/jpeg",
       "tags": "",
@@ -53,6 +29,30 @@
       "file_size": null,
       "alt": "Wall1-Exterior",
       "caption": ""
+    },
+    {
+      "name": "london-bridge",
+      "content_type": null,
+      "date_added": "2018-10-25-182638",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fill,g_faces,h_140,w_140/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_300,w_300/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_768,w_768/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_992,w_992/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_2681,w_3997,x_0,y_0/c_fit,h_1200,w_1200/v1540506399/qh9bnt9zzshywl3ucu44.jpg",
+      "width": 4000,
+      "height": 2672,
+      "format": "jpg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_2_12/media/2017-07-11-152446/susan-yin-62145.jpg",
+      "resource_type": "image",
+      "size": 10258850,
+      "crop": {
+        "origin": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 3997,
+        "height": 2681
+      }
     },
     {
       "name": "Image 1",
